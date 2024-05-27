@@ -165,8 +165,7 @@ We welcome contributions to this project! Feel free to open issues or submit pul
 
 ## 📧 Contact
 
-If you have any questions or need further assistance, please open an issue on GitHub or contact me at your.email@example.com.
+If you have any questions or need further assistance, please open an issue on GitHub or contact me at prokyle123@gmail.com
 
 ---
 
-Feel free to copy and paste this into your `README.md` file on GitHub!
